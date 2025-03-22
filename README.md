@@ -1,2 +1,2 @@
 # react-phoenix-app
-This is my practice app for learning purposes only
+This is my Elixir practice app for learning purposes only
